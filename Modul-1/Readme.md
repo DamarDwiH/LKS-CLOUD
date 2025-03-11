@@ -2,7 +2,7 @@ Kita bakal Meenggunakan Freamework [Next.js](https://nextjs.org/) project dan bo
 
 ## Mari Kita mulai membuat Aplikasi dari Front endnya
 
-Pertama membuat Aplikasi dari Front endnya menggunkan command
+Pertama kita membuat Aplikasi dari Front endnya menggunkan command menggunakan ***`AMPLIFY`***
 
 ```bash
 npm run dev
