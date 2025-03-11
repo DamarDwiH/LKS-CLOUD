@@ -1,7 +1,16 @@
 Kita bakal Meenggunakan Freamework [Next.js](https://nextjs.org/) project dan bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Mari Kita mulai membuat Aplikasi dari Front endnya
+## Pelajari ini juga sangat penting
 
+English Chat App System uses a number of technology stack to work properly:
+- [Node.js](https://nodejs.org/) - Runtime for the lambda function
+- [NextJS](https://nextjs.org/) - Progressive, incrementally-adoptable JavaScript framework
+- [API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service for creating, publishing, maintaining, monitoring, and securing APIs at any scale.
+- [Amazon Cognito](https://aws.amazon.com/pm/cognito/) - User authentication, authorization, and user management service for web and mobile apps
+- [PostgresQL](https://www.postgresql.org) - Powerful, open-source, relational database.
+
+<hr>
 Pertama kita membuat Aplikasi dari Front endnya menggunkan command menggunakan ***`AMPLIFY`***
 
 ```bash
@@ -26,13 +35,3 @@ Cara Membuat code 16 Secara acak dengan command:
 ```sh
 openssl rand -base64 16
 ```
-## TechStack
-
-English Chat App System uses a number of technology stack to work properly:
-- [Node.js](https://nodejs.org/) - Runtime for the lambda function
-- [NextJS](https://nextjs.org/) - Progressive, incrementally-adoptable JavaScript framework
-- [API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service for creating, publishing, maintaining, monitoring, and securing APIs at any scale.
-- [Amazon Cognito](https://aws.amazon.com/pm/cognito/) - User authentication, authorization, and user management service for web and mobile apps
-- [PostgresQL](https://www.postgresql.org) - Powerful, open-source, relational database.
-
-<hr>
