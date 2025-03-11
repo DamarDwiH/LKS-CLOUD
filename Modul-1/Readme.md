@@ -13,7 +13,7 @@ yarn dev
 Buka ***`http://YOUR_DOMAIN_OR_IP`*** dengan browser Anda untuk melihat hasilnya. Anda dapat mengarahkan ke ***`http://YOUR_DOMAIN_OR_IP/check`*** untuk memeriksa semua API Endpoint, Anda masih perlu masuk untuk mendapatkan token dari cognito guna memverifikasi setiap endpoint dengan Otorisasi.
 
 ## Membuat Varibel .env
-Variabel lingkungan ini harus dijalankan selama fase pembuatan, dan pastikan semua lingkungan telah ditetapkan sebelum membangun atau mengompilasi aplikasi. Aplikasi hanya boleh membaca lingkungan dari file .env, tetapi jangan pernah mengunggah file .env ke repositori Git atau Anda akan kehilangan poinnya.
+Variabel lingkungan ini harus dijalankan selama fase pembuatan, dan pastikan semua lingkungan telah ditetapkan sebelum membangun atau mengompilasi aplikasi. Aplikasi hanya boleh membaca lingkungan dari file .env.
 
 ```sh
 AUTH_SECRET="GENERATE_RANDOM_STRING_SECRET"
