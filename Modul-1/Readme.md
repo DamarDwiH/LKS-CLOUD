@@ -43,7 +43,7 @@ Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 172.32.0.0/23 >> Untuk Zone A
 10.10.0.0/23 >> Untuk Zone B
 ```
-##Dan juga dengan IP
+## Dengan IP
 ```bash
 172.32.0.0/24 >> untuk Public Subnet
 172.32.1.0/25 >> Untuk Private Subnet 1
