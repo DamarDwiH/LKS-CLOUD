@@ -35,10 +35,10 @@ Cara Membuat code 16 Secara acak dengan command:
 ```sh
 openssl rand -base64 16
 ```
-## Configure Back-end
+# Configure Back-end
 Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 
-# Dengan VPC Cidr
+## Dengan VPC Cidr
 ```bash
 172.32.0.0/23
 ```
