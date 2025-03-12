@@ -1,4 +1,4 @@
-Kita bakal Meenggunakan Freamwork [Next.js](https://nextjs.org/) project dan bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Kita bakal Menggunakan Freamwork [Next.js](https://nextjs.org/) project dan bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Mari Kita mulai membuat Aplikasi dari Front endnya
 ## Pelajari ini juga sangat penting
