@@ -42,3 +42,8 @@ Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 ```bash
 172.32.0.0/23
 ```
+##Dan juga dengan IP
+```bash
+172.32.0.0/24 >> ***`untuk Public Subnet`***
+172.32.1.0/25 >> 
+172.32.1.128/25 
