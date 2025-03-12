@@ -48,7 +48,7 @@ Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 172.32.0.0/24 >> untuk Public Subnet
 172.32.1.0/25 >> Untuk Private Subnet 1
 172.32.1.128/25 >> Untuk Private subnet 2
-------------------------------------------
+------------------------------------------<hr>
 10.10.0.0/24 >> untuk Public Subnet
 10.10.1.0/25 >> Untuk Private Subnet 1
 10.10.1.128/25 >> Untuk Private subnet 2
