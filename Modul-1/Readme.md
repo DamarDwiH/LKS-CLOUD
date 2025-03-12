@@ -41,4 +41,4 @@ Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 # Dengan VPC Cidr
 ```bash
 172.32.0.0/23
-```bash
+```
