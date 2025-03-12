@@ -38,12 +38,18 @@ openssl rand -base64 16
 # Configure Back-end
 Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 
-## Dengan VPC Cidr
+## Dengan VPC Cidr Zone A dan Zone B 
 ```bash
-172.32.0.0/23
+172.32.0.0/23 >> Untuk Zone A
+10.10.0.0/23 >> Untuk Zone B
 ```
 ##Dan juga dengan IP
 ```bash
-172.32.0.0/24 >> ***`untuk Public Subnet`***
-172.32.1.0/25 >> 
-172.32.1.128/25 
+172.32.0.0/24 >> untuk Public Subnet
+172.32.1.0/25 >> Untuk Private Subnet 1
+172.32.1.128/25 >> Untuk Private subnet 2
+------------------------------------------
+10.10.0.0/24 >> untuk Public Subnet
+10.10.1.0/25 >> Untuk Private Subnet 1
+10.10.1.128/25 >> Untuk Private subnet 2
+```
