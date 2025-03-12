@@ -53,3 +53,7 @@ Pertama Kita bakal membuat ***`VPC (Virtual Private Cloud)`***
 10.10.1.0/25 >> Untuk Private Subnet 1
 10.10.1.128/25 >> Untuk Private subnet 2
 ```
+## Setelah Membuat subnet kalian membuat RTB(Real-time Bidding) dan IGW (Internet Gateway)
+```bash
+Buat Internet Gateway terus Attach ke VPC Kalian
+
